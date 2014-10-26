@@ -1,0 +1,6 @@
+abbreviation feature
+^t time
+^f frequency
+Acc acceleration
+Mag magnitude
+Gyro gyroscope
