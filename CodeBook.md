@@ -37,9 +37,8 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 
-=======================
-
 The above data was processed to provide:
+==============================
 
 features_mean_standarddeviations.txt - means and standard deviations for each measurement in the original data set as described above
 
@@ -47,6 +46,7 @@ features_subject_activity_averages.txt - average of each variable for each activ
 
 
 Variable names:
+==============================
 
 1 subjectid
 2 activity
